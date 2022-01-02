@@ -139,6 +139,11 @@ public class StepDefination {
 	public void customer_should_verify_the_sucessful_message() {
 		driver.quit();
 	}
+	private void prakas() {
+		System.out.println("prakash 1st updated");
+	}
+	
+	
 }
 
 
